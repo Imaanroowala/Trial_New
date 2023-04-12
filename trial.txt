@@ -1,1 +1,4 @@
 Favorite ice cream:
+chocolate
+vanilla
+mint
